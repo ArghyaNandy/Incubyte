@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HOSP_CUSTOMER", "HOSP_CUSTOMER\HOSP_CUSTOMER.dtproj", "{4B5D0ABC-C6B8-44E4-8601-FA184FDFF837}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Hospital_Customer", "Hospital_Customer\Hospital_Customer.dtproj", "{4DA4130E-BC33-405E-B364-7D41B0F26213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4B5D0ABC-C6B8-44E4-8601-FA184FDFF837}.Development|Default.ActiveCfg = Development
-		{4B5D0ABC-C6B8-44E4-8601-FA184FDFF837}.Development|Default.Build.0 = Development
+		{4DA4130E-BC33-405E-B364-7D41B0F26213}.Development|Default.ActiveCfg = Development
+		{4DA4130E-BC33-405E-B364-7D41B0F26213}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

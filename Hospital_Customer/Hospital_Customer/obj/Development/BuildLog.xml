@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
-    <Name>HOSP_CUSTOMER</Name>
-    <LastWriteTime>2021-05-16T08:52:52.7387639Z</LastWriteTime>
+    <Name>Hospital_Customer</Name>
+    <LastWriteTime>2021-07-23T18:30:10.2256749Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>cust.dtsx</Name>
-      <LastWriteTime>2021-05-16T09:09:46.7934921Z</LastWriteTime>
+      <Name>Hosp.dtsx</Name>
+      <LastWriteTime>2021-07-23T19:07:52.5503414Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
